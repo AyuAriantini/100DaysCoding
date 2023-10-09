@@ -1,0 +1,12 @@
+
+package pertemuan.pertama;
+public class PertemuanPertama {
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+        
+        //ngoding hari pertama
+        /*ini adalah codingan pertama membuat project*/
+        
+    }
+    
+}
