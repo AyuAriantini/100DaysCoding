@@ -1,0 +1,14 @@
+
+package pertemuanke2;
+public class Pertemuanke2 {
+    public static void main(String[] args) {
+       //membuat variable
+       
+       String nama = "LuhAyu";
+       int umur = 18;
+       
+        System.out.println("nama" + umur);
+        System.out.println("umur" + nama);
+ 
+    }
+}
