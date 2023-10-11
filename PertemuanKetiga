@@ -1,0 +1,18 @@
+
+package pertemuanketiga;
+public class Pertemuanketiga {
+    public static void main(String[] args) {
+        
+        byte angkabyte = 10;
+        short angkashort = 20;
+        int angkaint = 30;
+        long angkalong = 400;
+        
+        System.out.println(angkabyte);
+        System.out.println(angkashort);
+        System.out.println(angkaint);
+        System.out.println(angkalong);
+                
+    }
+    
+}
