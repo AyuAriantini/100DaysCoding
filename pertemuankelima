@@ -1,0 +1,14 @@
+
+package pertemuanke5;
+public class Pertemuanke5 {
+    public static void main(String[] args) {
+        
+        float nilaifloat = 1.5F;
+        double nilaidouble = 20.20;
+        
+        System.out.println(nilaifloat);
+        System.out.println(nilaidouble);
+        
+    }
+    
+}
