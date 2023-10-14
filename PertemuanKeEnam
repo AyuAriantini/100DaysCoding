@@ -1,0 +1,13 @@
+
+package pertemuan6;
+public class Pertemuan6 {
+    public static void main(String[] args) {
+       
+        boolean mahasiswa = true;
+        boolean sudah_kawin = false;
+        
+        System.out.println(mahasiswa);
+        System.out.println(sudah_kawin);
+    }
+    
+}
