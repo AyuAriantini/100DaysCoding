@@ -1,0 +1,13 @@
+package pertemuanketujuh;
+public class Pertemuanketujuh {
+    public static void main(String[] args) {
+        // type data char
+        char a = 'A';
+        char p = 'P';
+        
+        System.out.println("A");
+        System.out.println("P");
+        
+    }
+    
+}
