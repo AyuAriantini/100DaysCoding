@@ -1,0 +1,12 @@
+
+package pertemuankedelapan;
+public class Pertemuankedelapan {
+    public static void main(String[] args) {
+       
+        byte angka1 = 25;
+        byte angka2 = 15;
+        
+        System.out.println("angka1 > angka2");
+    }
+    
+}
