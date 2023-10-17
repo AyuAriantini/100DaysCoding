@@ -1,0 +1,13 @@
+package pertemuanke9;
+public class Pertemuanke9 {
+    public static void main(String[] args) {
+       
+        double tinggi = 163.5;
+        int berat = 63;
+        
+        System.out.println("tinggi badan " + tinggi);
+        System.out.println("berat badan " + berat);
+        
+    }
+    
+}
