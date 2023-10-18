@@ -1,0 +1,8 @@
+package pertemuanke10;
+public class Pertemuanke10 {
+    public static void main(String[] args) {
+        float tinggi = 163.5f;
+        
+        System.out.println("tinggi badan saya = " + tinggi);
+    } 
+}
