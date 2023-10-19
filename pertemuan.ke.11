@@ -1,0 +1,11 @@
+package pertemuanke11;
+public class Pertemuanke11 {
+    public static void main(String[] args) {
+       int jumlah = 28;
+       int angka = 40;
+       
+        System.out.println(jumlah < angka );
+
+    }
+    
+}
