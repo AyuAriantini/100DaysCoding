@@ -1,0 +1,9 @@
+package pertemuanke12;
+public class Pertemuanke12 {
+    public static void main(String[] args) {
+      String nama = "ayu";
+        System.out.println(nama);
+
+    }
+    
+}
