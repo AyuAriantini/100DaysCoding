@@ -1,0 +1,13 @@
+package pertemuanke13;
+public class Pertemuanke13 {
+    public static void main(String[] args) {
+       int angka = 20;
+       int nilai = 12;
+       
+        System.out.println(angka == angka);
+        System.out.println(nilai < angka);
+        System.out.println(angka > nilai);
+
+    }
+    
+}
