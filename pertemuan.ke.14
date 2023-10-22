@@ -1,0 +1,31 @@
+package pertemuanke14;
+public class Pertemuanke14 {
+    public static void main(String[] args) {
+      int angka;
+      int nilai;
+      
+      angka = 10;
+      nilai = 15;
+      
+      //penambahan
+      angka += nilai;
+      //sekarang angka = 25
+        System.out.println("penambahan : " + angka);
+        
+      // pengurangan
+      nilai -= angka;
+      //sekarang nilai = 10 (karena 25-15)
+        System.out.println("pengurangan : " + nilai);
+        
+      //perkalian
+      nilai *= angka;
+      //sekarang nilai = 100 (karena 10*10)
+        System.out.println("perkalian : " + nilai);
+        
+      //pembagian
+      nilai /= angka;
+      //sekarang nilai = 10 (karena 100/10)
+        System.out.println("pembagian : " + nilai);      
+    }
+    
+}
