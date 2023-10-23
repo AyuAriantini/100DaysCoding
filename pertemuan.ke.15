@@ -1,0 +1,14 @@
+package pertemuanke15;
+import java.math.BigInteger;
+public class Pertemuanke15 {
+    public static void main(String[] args) {
+        BigInteger A = new BigInteger ("2234567");
+        BigInteger B = new BigInteger ("12345678910");
+        
+        BigInteger C = A.add(B);
+        
+        System.out.println("Nilai\t:" + C);
+
+    }
+    
+}
