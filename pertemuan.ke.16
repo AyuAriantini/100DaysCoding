@@ -1,0 +1,18 @@
+package pertemuan16;
+import java.math.BigDecimal;
+public class Pertemuan16 {
+    public static void main(String[] args) {
+        BigDecimal angkaA = new BigDecimal ("152.34567897654");
+        BigDecimal angkaB = new BigDecimal ("90.2345678910112");
+        
+        BigDecimal C = angkaA.add(angkaB);
+        BigDecimal D = angkaA.subtract(angkaB);
+        BigDecimal E = angkaA.multiply(angkaB);
+        
+        System.out.println("Nilai\nt:" + C);  //pertambahan
+        System.out.println("Nilai\nt:" + D);  //pengurangan
+        System.out.println("Nilai\nt:" + E);  //perkalian
+        
+    }
+    
+}
