@@ -1,0 +1,17 @@
+package pertemuanke17;
+public class Pertemuanke17 {
+    public static void main(String[] args) {
+       //konversi String ke tipe data primitif
+       
+       String A,B;
+       A = "1400";
+       B = "2000";
+       
+       int C = Integer.parseInt(A);
+       double D = Double.parseDouble(B);
+       
+        System.out.println("Nilai\nt" + C);
+        System.out.println("Nilai\nt" + D); 
+    }
+    
+}
