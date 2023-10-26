@@ -1,0 +1,15 @@
+package pertemuanke18;
+public class Pertemuanke18 {
+    public static void main(String[] args) {
+       //Konvesi tipe data primitif ke string
+       
+       int jumlah = 70;
+       String jumlahString = Integer.toString(jumlah);
+       double jumlahDouble = 2.3250;
+       String jumlahDoubleString = Double.toHexString(jumlahDouble);
+       
+        System.out.println("Nilai\nt" + jumlahString);
+        System.out.println("Nilai\nt" + jumlahDoubleString);
+    }
+    
+}
