@@ -1,0 +1,21 @@
+package pertemuanke19;
+public class Pertemuanke19 {
+    public static void main(String[] args) {
+              
+       //Inisialisasi Variabel
+       int jumlah = 60; 
+       String nama = "Ayu";
+       double IPK = 3.66129;
+       
+       //Update variabel
+       jumlah = 95;
+       nama = "Ariantini";
+       IPK = 3.811653224;
+       
+        System.out.println(jumlah);
+        System.out.println(nama);
+        System.out.println(IPK);
+       
+    }
+    
+}
