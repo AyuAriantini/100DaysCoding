@@ -1,0 +1,13 @@
+package pertemuanke20;
+public class Pertemuanke20 {
+    public static void main(String[] args) {
+        //constant (final Variabel)
+        final int nilai = 90;
+        final byte umur = 18;
+        
+        System.out.println("hasil nilai" + nilai);
+        System.out.println("umur" + umur);
+        
+    }
+    
+}
