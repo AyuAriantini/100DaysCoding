@@ -1,0 +1,20 @@
+package pertemuanke22;
+public class Pertemuanke22 {
+    public static void main(String[] args) {
+        //Operator arimatika
+        
+        byte penjumlahan = 6 + 4;
+        int pengurangan = 300 - 250;
+        long perkalian = 400 * 4;
+        short pembagian = 200 / 4;
+        short bagiHasil = 100 % 50;
+        
+        System.out.println("Nilai\nt" + penjumlahan);
+        System.out.println("Nilai\nt" + pengurangan);
+        System.out.println("Nilai\nt" + perkalian);
+        System.out.println("Nilai\nt" + pembagian);
+        System.out.println("Niali\nt" + bagiHasil);
+                               
+    }
+    
+}
