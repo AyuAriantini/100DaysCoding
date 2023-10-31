@@ -1,0 +1,23 @@
+package pertemuanke23;
+public class Pertemuanke23 {
+    public static void main(String[] args) {
+        //Operator penugasan
+        byte jumlah = 20;
+        
+        jumlah += 6; //penjumlahan
+        System.out.println(jumlah);
+        
+        jumlah -= 5; //pengurangan
+        System.out.println(jumlah);
+        
+        jumlah *= 3; //perkalian
+        System.out.println(jumlah);
+        
+        jumlah /= 2; //pembagian
+        System.out.println(jumlah);
+        
+        jumlah %= 1; //bagihasil
+        System.out.println(jumlah);
+    }
+    
+}
