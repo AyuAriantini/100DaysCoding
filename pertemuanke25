@@ -1,0 +1,15 @@
+package pertemuanke25;
+public class Pertemuanke25 {
+    public static void main(String[] args) {
+       //Operator logika
+       boolean hasil1 = true;
+       boolean hasil2 = false;
+       
+       boolean A = hasil1 && hasil2; //false
+       boolean B = hasil1 || hasil2; //true
+       boolean C = !hasil2; //true
+       
+        System.out.println("\n" +A + "\n" +B + "\n" +C);
+    }
+  
+}
