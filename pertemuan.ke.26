@@ -1,0 +1,15 @@
+package pertemuanke26;
+public class Pertemuanke26 {
+    public static void main(String[] args) {
+       //percabangan - if 
+       int umur = 18;
+       
+       if (umur > 17); {
+        System.out.println("usia anda saat ini");
+    } else {
+        System.out.println("usia anda yang sebenarnya");
+            }
+       
+    }
+    
+}
