@@ -1,0 +1,15 @@
+package pertemuanke27;
+public class Pertemuanke27 {
+    public static void main(String[] args) {
+      //percabangan if-else
+      
+      boolean menang = true;
+      
+      if (menang==true) {
+          System.out.println("anda menang...!");
+      } else {
+          System.out.println("anda tidak menang...");
+      }
+    }
+    
+}
