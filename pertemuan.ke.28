@@ -1,0 +1,17 @@
+package pertemuanke28;
+public class Pertemuanke28 {
+    public static void main(String[] args) {
+        //percabangan - if, else if, else
+        
+        byte angka = 10;
+        
+        if (angka>15) {
+        System.out.println("Angka diatas 15"); 
+    }else if(angka<=15) {
+        System.out.println("angka dibawah dari 15");
+    }else{
+        System.out.println("angka terserah");
+            }
+    }
+    
+}
