@@ -1,0 +1,11 @@
+package pertemuanke29;
+public class Pertemuanke29 {
+    public static void main(String[] args) {
+        //Ternary Operator
+        
+        byte nilai = 15;
+        String pesan = (nilai < 20) ? "Lebih kecil dari 20" : "Kurang dari atau sama dengan 20";
+        System.out.println(pesan);
+    }
+    
+}
