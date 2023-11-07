@@ -1,0 +1,32 @@
+package pertemuanke30;
+public class Pertemuanke30 {
+    public static void main(String[] args) {
+        //Switch-case
+        int hariDalamSeminggu = 5;
+        switch (hariDalamSeminggu) {
+            case 1:
+                System.out.println("hariSenin");
+                break;
+            case 2:
+                System.out.println("hariSelasa");
+                break;
+            case 3:
+                System.out.println("hariRabu");
+                break;
+            case 4:
+                System.out.println("hariKamis");
+                break;
+            case 5:
+                System.out.println("hariJumat");
+                break;
+            case 6:
+                System.out.println("hariSabtu");
+                break;
+            case 7:
+                System.out.println("hariMinggu");
+                break;
+            
+            default:    
+    }
+    }    
+}
