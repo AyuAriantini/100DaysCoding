@@ -1,0 +1,13 @@
+package pertemuanke32;
+public class Pertemuanke32 {
+    public static void main(String[] args) {
+        //perulangan - dencrement
+       int nilaiAwal = 10;
+       int i;
+       
+       for (i = 10; i >= 1; i--); {
+        System.out.println( i);
+    }
+    }
+    
+}
