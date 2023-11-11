@@ -1,0 +1,12 @@
+package pertemuanke34;
+public class Pertemuanke34 {
+public static void main(String[] args) {
+        //Perulangan - for Each
+        int[] numbers = {10, 20, 30, 40, 50};
+        
+        for (int angka : numbers) {
+        System.out.println(angka);
+        }
+    }
+    
+}
