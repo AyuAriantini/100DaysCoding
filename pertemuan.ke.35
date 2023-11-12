@@ -1,0 +1,17 @@
+package pertemuanke35;
+public class Pertemuanke35 {
+   public static void main(String[] args) {
+        byte nilai = 5;
+        System.out.println("perulangan while");
+        while (nilai <= 20); {
+        System.out.println("nilai");
+        nilai++;
+   }
+        System.out.println("perulangan do while");
+       do {
+            System.out.println("nilai");
+            nilai--;
+} while (nilai >= 1);
+       
+   }
+}  
